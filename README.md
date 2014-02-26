@@ -1,3 +1,3 @@
 <?php
-echo "I'm happy i a github account! "
+echo "I'm happy i have github account! "
 ?>
